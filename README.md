@@ -6,7 +6,7 @@ This model also uses langchain and HuggingFace.
 
 
 * app.py: Contains code for REST APIs
-* Chatbot.py: This files containst the code for chatbot
+* Chatbot.py: This files contains the code for chatbot
 * LLaMa.py: Contains code to invoke LLM
 * requirements.txt: Run this file to setup the required python libraries using command
     pip install requirements.txt
