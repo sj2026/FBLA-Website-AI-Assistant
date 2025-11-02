@@ -5,7 +5,7 @@ from langchain_core.language_models.llms import LLM
 class LLaMa(LLM):
     
     """
-        Wrapper calss to invoke LLM
+        Wrapper class to invoke LLM
     """
     def _call(self, prompt, **kwargs):
         return self.call_llama(prompt)
